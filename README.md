@@ -1,1 +1,1 @@
-# GitTrain
+# 用于练习Git使用
